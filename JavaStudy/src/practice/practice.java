@@ -26,18 +26,12 @@ public class practice {
 		String designatedhitter = player.next();
 		System.out.println("Pitcher : ");
 		String pitcher = player.next();
-		
-		System.out.println("FirstBaseMan : "+firstbase
-				+"\nSecondBaseMan : "+secondbase
-				+"\nThirdBaseMan : "+thirdbase
-				+"\nShortStopper : "+shortstop
-				+"\nLeftfield : "+leftfield
-				+"\nCenterfield : "+centerfield
-				+"\nRightfield : "+rightfield
-				+"\nCatcher : "+catcher
-				+"\nDesignatedHitter : "+designatedhitter
-				+"\nPitcher : "+pitcher);
-		
+
+		System.out.println("FirstBaseMan : " + firstbase + "\nSecondBaseMan : " + secondbase + "\nThirdBaseMan : "
+				+ thirdbase + "\nShortStopper : " + shortstop + "\nLeftfield : " + leftfield + "\nCenterfield : "
+				+ centerfield + "\nRightfield : " + rightfield + "\nCatcher : " + catcher + "\nDesignatedHitter : "
+				+ designatedhitter + "\nPitcher : " + pitcher);
+
 	}
 
 }
