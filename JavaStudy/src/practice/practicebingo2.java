@@ -15,7 +15,7 @@ public class practicebingo2 {
 			
 			int[] bmain = new int[in * in];
 
-			
+			if(in>0) 
 			
 			
 			for (int i = 0; i < bmain.length; i++) {
@@ -45,5 +45,6 @@ public class practicebingo2 {
 			System.out.println("\n\nBINGO SIZE IS " + in + " X " + in+"\n\n");
 	
 		}
+			
 	}
 }
