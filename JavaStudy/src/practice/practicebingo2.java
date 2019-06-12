@@ -37,9 +37,8 @@ public class practicebingo2 {
 			}
 		}//bmain[0]~bmain[24] ³ª¿­
 		
-		System.out.println("\n\nBINGO SIZE IS "+in +" X "+in);
-		
-		
+		System.out.println("\n\nBINGO SIZE IS " + in + " X " + in);
+
 	}
 
 }
