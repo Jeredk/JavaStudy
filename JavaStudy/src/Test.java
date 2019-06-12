@@ -23,7 +23,7 @@ public class Test {
 		 * System.out.println(score); System.out.println(age);
 		 */
 
-		byte b = 100;
+		byte b = 100; 
 		// byte + int
 		byte c = (byte) (b + 1); // 101 < byte최대크기 127
 
