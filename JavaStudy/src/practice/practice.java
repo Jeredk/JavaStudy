@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class practice {
 	public static void main(String[] args) {
 		Scanner player = new Scanner(System.in);
-		System.out.println("자신만의 야구 팀을 만드세요\n");
+//		System.out.println("자신만의 야구 팀을 만드세요\n");
 		System.out.println("FirstBaseMan : ");
 		String firstbase = player.next();
 		System.out.println("SecondBaseMan : ");
